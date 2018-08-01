@@ -1,3 +1,3 @@
 import salt
-def hello()
+def hello():
  reutn "Hello World"
