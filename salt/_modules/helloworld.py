@@ -1,3 +1,3 @@
 import salt
 def hello():
- reutn "Hello World"
+ return "Hello World"
