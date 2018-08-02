@@ -1,2 +1,2 @@
-python2-pip:
+python27-pip:
   pkg.installed
